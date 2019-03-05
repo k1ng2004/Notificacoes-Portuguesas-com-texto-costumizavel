@@ -2,7 +2,7 @@
 Notificacoes Portuguesas com texto costumizavel 1.0.0
 
 
-Este script faz com que consigas mandar notificações personalidas
+Este script faz com que consigas mandar notificações personalizadas
 
 Tens o 
 
