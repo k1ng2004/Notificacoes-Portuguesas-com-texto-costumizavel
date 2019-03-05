@@ -6,10 +6,20 @@ Este script faz com que consigas mandar notificações personalidas
 
 Tens o 
 /noticias - https://imgur.com/IUDU5Pr
+
+
 /psp - https://imgur.com/b8qo59l
+
+
 /gnr - https://imgur.com/7td4SRe
+
+
 /inem - https://imgur.com/8z9J1rQ
+
+
 /mecanico - https://imgur.com/dsBXScw
+
+
 /taxi - https://imgur.com/ZDmkDjQ
 
 
